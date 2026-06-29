@@ -1,0 +1,6 @@
+<Student>
+  <Name name="John Doe" age= "20"></Name>
+  <Email>john.doe@example.com</Email>
+  <Phone>123-456-7890</Phone>
+  <eligibility>age &gt; 18</eligibility>
+</Student>
